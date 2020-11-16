@@ -1,0 +1,6 @@
+version: "3.0"
+services:
+  ts-express-boilerplate:
+    volumes:
+    - ./src:/app/src
+    command: ["npm", "run", "start:dev"]
