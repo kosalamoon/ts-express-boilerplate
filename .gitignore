@@ -6,5 +6,5 @@ dist
 .cache
 .xmigrate
 
-**/*.env*
+**/*.env
 **/*.log
